@@ -1,0 +1,27 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    background: #7159c1;
+    border: 1px solid;
+  }
+
+  .container {
+    background: black;
+    width: 100vw;
+    height: 100vh;
+
+    display: grid;
+    grid-template-columns: 50px 50px 50px;
+    grid-template-rows: 50px 50px 50px;
+    
+    gap: 5px;
+
+    justify-content: space-around;
+    align-content: space-around;
+  }
+
+  .container > div {
+      background: #7159c1;
+  }
