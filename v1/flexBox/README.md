@@ -17,20 +17,27 @@
     - nowrap
     - wrap
     - wrap-reverse
--justify-content
+- justify-content
     - flex-start
-    -flex-end
+    - flex-end
     - center
     - space-between
     - space-around
 
 ## Flex Item
-    - flex-grow
-    - flex-basis
-    - flex-shrink
-    - flex
-    - order
-    - align-self
+- flex-grow
+- flex-basis
+- flex-shrink
+- flex
+- order
+- align-self
+    - auto
+    - flex-start
+    - flex-end
+    - center
+    - baseline
+    - stretch
+
     
 ---
 

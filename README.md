@@ -19,3 +19,4 @@
 `git branch -D nova_branch`
 
 ## Colocar o projeto na nuvem.
+`git push`
