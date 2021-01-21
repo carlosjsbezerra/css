@@ -43,7 +43,7 @@
     - flex-end
     - center
     - baseline
-# - align-content
+- align-content
     - stretch
     - flex-start
     - flex-end
