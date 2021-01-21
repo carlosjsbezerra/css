@@ -38,7 +38,7 @@
     - baseline
     - stretch
 - align-items - Se o flex-direction for `row` o alinhamento passa a ser vertical ↓, de forma análoga se for `column` alinhamento horizontal →
-    - stretch
+    - stretch (default)
     - flex-start
     - flex-end
     - center
