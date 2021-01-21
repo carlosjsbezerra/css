@@ -241,3 +241,5 @@ Vale lembrar que o alinhamento acontece tanto em linha quanto em colunas. Por ex
 
 
 https://origamid.com/projetos/flexbox-guia-completo/
+
+treinar flex-box - https://flexboxfroggy.com/
