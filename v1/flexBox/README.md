@@ -17,7 +17,7 @@
     - nowrap
     - wrap
     - wrap-reverse
-- justify-content - Se o flex-direction for `row` o alinhamento passa a ser vertical →, de forma análoga se for `column` alinhamento horizontal ↓
+- justify-content - Se o flex-direction for `row` o alinhamento é vertical →, de forma análoga se for `column` alinhamento horizontal ↓
     - flex-start
     - flex-end
     - center
