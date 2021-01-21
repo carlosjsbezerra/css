@@ -37,19 +37,19 @@
     - center
     - baseline
     - stretch
-align-items
- - stretch
- - flex-start
- - flex-end
- - center
- - baseline
-align-content
- - stretch
- - flex-start
- - flex-end
- - center
- - space-between
- - space-around
+- align-items
+    - stretch
+    - flex-start
+    - flex-end
+    - center
+    - baseline
+- align-content
+    - stretch
+    - flex-start
+    - flex-end
+    - center
+    - space-between
+    - space-around
 
     
 ---
