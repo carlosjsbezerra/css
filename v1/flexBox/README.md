@@ -5,7 +5,7 @@
     - flex
     - grid
 - flex-direction
-    - row (padrão)
+    - row (default)
     - column
     - row-reverse
     - column-reverse
@@ -18,7 +18,7 @@
     - wrap
     - wrap-reverse
 - justify-content - Se o flex-direction for `row` o alinhamento é vertical →, de forma análoga se for `column` alinhamento horizontal ↓
-    - flex-start
+    - flex-start (default)
     - flex-end
     - center
     - space-between
