@@ -1,11 +1,11 @@
 # GIT E GITHUB
 
-`git init` // inicia a linha do tempo
-`git add .` // adiciona ou atualiza mudançãs para irem para a linha do tempo
-`git commit -m "mensage"` // adiciona um ponto na linha do tempo
-`git log` // visualiza os pontos da linha do tempo / commit
-`git status` // informa o estado das alterações do nosso projeto
-`git show ff07291c12108f98856e518bcb239c0e77742714` // apresenta determinado ponto na história
+- `git init` // inicia a linha do tempo
+- `git add .` // adiciona ou atualiza mudançãs para irem para a linha do tempo
+- `git commit -m "mensage"` // adiciona um ponto na linha do tempo
+- `git log` // visualiza os pontos da linha do tempo / commit
+- `git status` // informa o estado das alterações do nosso projeto
+- `git show ff07291c12108f98856e518bcb239c0e77742714` // apresenta determinado ponto na história
 
 ## Iniciar uma nova funcionalidade no projeto, sem estragar o que já foi feito.
 `git branch nova_branch`

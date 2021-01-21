@@ -28,9 +28,14 @@ Vamos separar em 2 grupos:
 - display: grid;
 - grid-template-columns;
 - grid-template-rows;
-- grid-gap
-    - grid-row-gap
-    - grid-column-gap
+- grid-gap  `(propriedades obsoletas)`
+    - grid-row-gap `(propriedades obsoletas)`
+    - grid-column-gap `(propriedades obsoletas)`
+
+-- new
+- row-gap
+- column-gap
+
 - grid-template-areas;
 
 ...e **alinhamento**
@@ -95,7 +100,7 @@ Podemos usar **7 valores**
 1. start
 2. end
 3. center
-4. stretch
+4. stretch (padrão)
 5. space-between
 6. space-around
 7. space-evenly
