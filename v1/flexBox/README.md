@@ -1,28 +1,29 @@
 # flexbox
 
 ## Flex Container
-    - display
-        - flex
-        - grid
-    - flex-direction
-        - row (padrão)
-        - column
-        - row-reverse
-        - column-reverse
-    - flex-wrap
-        - nowrap
-        - wrap
-        - wrap-reverse
-    - flex-flow
-        - nowrap
-        - wrap
-        - wrap-reverse
-    -justify-content
-        - flex-start
-        -flex-end
-        - center
-        - space-between
-        - space-around
+- display
+    - flex
+    - grid
+- flex-direction
+    - row (padrão)
+    - column
+    - row-reverse
+    - column-reverse
+- flex-wrap
+    - nowrap
+    - wrap
+    - wrap-reverse
+- flex-flow
+    - nowrap
+    - wrap
+    - wrap-reverse
+-justify-content
+    - flex-start
+    -flex-end
+    - center
+    - space-between
+    - space-around
+
 ## Flex Item
     - flex-grow
     - flex-basis
