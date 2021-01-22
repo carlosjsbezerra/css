@@ -43,7 +43,7 @@
     - flex-end
     - center
     - baseline
-- align-content
+- align-content - Essa propriedade só funciona se o flex-wrap: wrap; estiver ativado...
     - stretch
     - flex-start
     - flex-end
