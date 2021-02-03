@@ -43,14 +43,12 @@ body {
 
 .header-nav a {
     color: #415564;
-    /* color: white; */
     text-decoration: none;
     text-transform: uppercase;
-    /* font-size: 12px; */
+    transition: color .3s linear;
 }
 
 .header-nav a:hover {
-    /* color: #415564; */
     color: white;
     text-decoration: none;
     text-transform: uppercase;
