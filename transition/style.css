@@ -1,0 +1,15 @@
+.cursor {  
+    cursor: pointer;
+  }
+  
+  li ul {
+    height: 0;
+    overflow: hidden;
+    transition: height .7s;
+    cursor: pointer;
+  }
+  
+  li:hover ul {
+    height: 40px;  
+  }
+  
