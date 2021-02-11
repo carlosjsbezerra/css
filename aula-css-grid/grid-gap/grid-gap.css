@@ -11,6 +11,7 @@
 }
 
 .gap {
+    /* grid-gap - Property is obsolete. */
 	gap: 20px;
 }
 
