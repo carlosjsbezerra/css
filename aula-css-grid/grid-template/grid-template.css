@@ -4,14 +4,17 @@
 }
 
 .grid-template-1 {
-	grid-template: 50px 1fr / 100px 1fr 100px;
+                   /*linhas*/  /*colunas*/
+	grid-template: 100px 1fr / 100px 1fr 100px;
 }
 
 .grid-template-2 {
 	grid-template:
+                       /*linhas (50px 150px 100px)*/   
 		"logo nav nav" 50px
 		"sidenav content advert" 150px
 		"sidenav footer footer" 100px
+        /*colunas (100px 1fr 50px*/
 		/ 100px 1fr 50px;
 }
 
