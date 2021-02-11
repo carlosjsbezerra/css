@@ -10,7 +10,7 @@
 
 /* Ele força a criação de 5 colunas */
 .item-6 {
-	grid-column: 5;
+	/* grid-column: 5; */
 }
 
 .grid-auto-columns-2 {
